@@ -1,0 +1,15 @@
+D:\Projects\VDDM\VDDM\bin\Debug\VDDM.exe.config
+D:\Projects\VDDM\VDDM\bin\Debug\VDDM.exe
+D:\Projects\VDDM\VDDM\bin\Debug\VDDM.pdb
+D:\Projects\VDDM\VDDM\obj\Debug\VDDM.csprojResolveAssemblyReference.cache
+D:\Projects\VDDM\VDDM\obj\Debug\MainWindow.g.cs
+D:\Projects\VDDM\VDDM\obj\Debug\App.g.cs
+D:\Projects\VDDM\VDDM\obj\Debug\VDDM_MarkupCompile.cache
+D:\Projects\VDDM\VDDM\obj\Debug\VDDM_MarkupCompile.lref
+D:\Projects\VDDM\VDDM\obj\Debug\MainWindow.baml
+D:\Projects\VDDM\VDDM\obj\Debug\VDDM.g.resources
+D:\Projects\VDDM\VDDM\obj\Debug\VDDM.Properties.Resources.resources
+D:\Projects\VDDM\VDDM\obj\Debug\VDDM.csproj.GenerateResource.cache
+D:\Projects\VDDM\VDDM\obj\Debug\VDDM.csproj.CoreCompileInputs.cache
+D:\Projects\VDDM\VDDM\obj\Debug\VDDM.exe
+D:\Projects\VDDM\VDDM\obj\Debug\VDDM.pdb
