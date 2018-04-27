@@ -1,2 +1,2 @@
-# VDDM Vinci's Dell Display Manager
+# VDDM - Vinci's Dell Display Manager
 
